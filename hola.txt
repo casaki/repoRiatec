@@ -1,2 +1,5 @@
 dfsfsfsdfsdfsfsdf
 dadsasd
+init main(){
+	int a;
+}
