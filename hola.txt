@@ -2,4 +2,5 @@ dfsfsfsdfsdfsfsdf
 dadsasd
 init main(){
 	int a;
+	exit(0)
 }
