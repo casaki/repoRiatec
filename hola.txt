@@ -1,6 +1,6 @@
 dfsfsfsdfsdfsfsdf
 dadsasd
 init main(){
-	int a;
+	int b; 
 	exit(0)
 }
