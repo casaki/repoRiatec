@@ -1,5 +1,6 @@
 dfsfsfsdfsdfsfsdf
 dadsasd
+//comentario
 init main(){
 	int a;
 }
